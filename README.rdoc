@@ -31,10 +31,10 @@ http://abletech.github.com/jquery.placeholder-label/placeholder.png
 
 Tested in the following browsers:
 
-* Internet Explorer 6, 7, 8
-* Firefox 3.x
-* Google Chrome 8, 9
-* Safari 5
+* Internet Explorer 6, 7, 8, 9
+* Firefox 3+
+* Google Chrome 8+
+* Safari 5+
 
 == License
 
